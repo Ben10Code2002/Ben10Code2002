@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/bumeega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bumeega" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bumeega vikurandha bentharavithana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bumeega vikurandha bentharavithana" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@bvbfuture" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bvbfuture" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@bvbfuture" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bvbfuture" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
